@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&family=Koulen&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --title: "Koulen";
+    --content: "Battambong";
+    
+}
+.container{
+    width: 80%;
+    height: 60vh;
+    background-color: #1F3A1F;
+}
